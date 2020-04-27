@@ -1,0 +1,8 @@
+tornado==5.1
+jsonpickle
+requests
+bs4
+ftfy
+datetime
+aiohttp
+aiofile
